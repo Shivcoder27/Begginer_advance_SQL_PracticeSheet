@@ -1,4 +1,3 @@
-# Begginer_advance_SQL_PracticeSheet
 # Beginner to Advanced SQL Practice Sheet
 
 ## Complete SQL Concepts Repository
